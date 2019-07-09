@@ -1,0 +1,2 @@
+[container:1]productcode=100:curry:
+[container:2]productcode=200:spagettie

@@ -1,0 +1,8 @@
+[container:1]productcode=200,reputation.creepytaste!taste like liquid garbage. by Robbert.
+[container:2]productcode=200,reputation.creepytaste!its gone off. by John.
+[container:3]productcode=200,reputation.expensive!the cost performance is bad. by Amanda.
+[container:4]productcode=100,reputation.delicous!its amazing. by Margarret.
+[container:5]productcode=100,reputation.delicous!wonderful experience. by Mickey.
+[container:6]productcode=100,reputation.delicous!good spicy. by Anthony.
+[container:7]productcode=800,reputation.delicous!wonderful. by Smith.
+[container:8]productcode=600,reputation.creepytaste!taste like rotten banana. by Chris.
